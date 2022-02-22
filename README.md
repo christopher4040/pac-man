@@ -1,10 +1,10 @@
 # Pac-Man
 
 ## Description
-This website is for fun were you can move a Pac-Man horizontally using the arrow keys (left/right).
+This website is for fun, were you can move a Pac-Man horizontally using the arrow keys (left/right).
 
 ## Usage 
-Visit [pac-man](https://christopher4040.github.io/pac-man/) to start playing with Pac-Man. 
+Visit [pac-man](https://christopher4040.github.io/pac-man/) to start playing. 
 
 ## Roadmap
 - Add vertical movements
